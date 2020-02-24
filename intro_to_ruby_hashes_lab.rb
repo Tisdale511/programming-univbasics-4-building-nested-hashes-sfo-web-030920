@@ -27,7 +27,7 @@ def monopoly_with_third_tier
   # complexity.
   { :railroads => {
    :names => {
-      :monday => "2",
+      :reading_railroad => {},
       :tuesday => "1",
       :wednesday => "3",
       :thursday => "4" },
