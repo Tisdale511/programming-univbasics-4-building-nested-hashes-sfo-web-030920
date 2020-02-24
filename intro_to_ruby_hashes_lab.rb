@@ -36,7 +36,7 @@ def monopoly_with_third_tier
       :monday => "2",
       :tuesday => "1",
       :wednesday => "3",
-      :one_piece_owned => "25"  
+      :one_piece_owned => 25  
     }
   }
 	  
