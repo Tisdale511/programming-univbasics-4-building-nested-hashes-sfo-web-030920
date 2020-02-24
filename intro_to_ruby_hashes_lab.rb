@@ -35,7 +35,7 @@ def monopoly_with_third_tier
    :rent_in_dollars => {
       :monday => "2",
       :tuesday => "1",
-      :wednesday => "3",
+      :two_pieces_owned => 50,
       :one_piece_owned => 25  
     }
   }
